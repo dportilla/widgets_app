@@ -1,3 +1,3 @@
 # widgets_app
 
-in construction
+It is an introductory app to Flutter widgets and state management with Riverpod.
