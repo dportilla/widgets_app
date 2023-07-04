@@ -8,9 +8,9 @@ class UiControlScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('UI Controls'),
+        title: const Text('UI Controls'),
       ),
-      body: _UIControlsView(),
+      body: const _UIControlsView(),
     );
   }
 }
